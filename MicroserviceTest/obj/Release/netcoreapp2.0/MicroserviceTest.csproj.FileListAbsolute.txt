@@ -1,0 +1,10 @@
+/Users/roy/Projects/MicroserviceTest/MicroserviceTest/bin/Release/netcoreapp2.0/MicroserviceTest.deps.json
+/Users/roy/Projects/MicroserviceTest/MicroserviceTest/bin/Release/netcoreapp2.0/MicroserviceTest.runtimeconfig.json
+/Users/roy/Projects/MicroserviceTest/MicroserviceTest/bin/Release/netcoreapp2.0/MicroserviceTest.runtimeconfig.dev.json
+/Users/roy/Projects/MicroserviceTest/MicroserviceTest/bin/Release/netcoreapp2.0/MicroserviceTest.dll
+/Users/roy/Projects/MicroserviceTest/MicroserviceTest/bin/Release/netcoreapp2.0/MicroserviceTest.pdb
+/Users/roy/Projects/MicroserviceTest/MicroserviceTest/obj/Release/netcoreapp2.0/MicroserviceTest.csproj.CoreCompileInputs.cache
+/Users/roy/Projects/MicroserviceTest/MicroserviceTest/obj/Release/netcoreapp2.0/MicroserviceTest.AssemblyInfoInputs.cache
+/Users/roy/Projects/MicroserviceTest/MicroserviceTest/obj/Release/netcoreapp2.0/MicroserviceTest.AssemblyInfo.cs
+/Users/roy/Projects/MicroserviceTest/MicroserviceTest/obj/Release/netcoreapp2.0/MicroserviceTest.dll
+/Users/roy/Projects/MicroserviceTest/MicroserviceTest/obj/Release/netcoreapp2.0/MicroserviceTest.pdb

@@ -1,0 +1,5 @@
+/Users/roy/Projects/MicroserviceTest/MicroserviceTest
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=MicroserviceTest
+--content-root=/Users/roy/Projects/MicroserviceTest/MicroserviceTest
+--file=
