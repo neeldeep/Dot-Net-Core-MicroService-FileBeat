@@ -1,13 +1,14 @@
 ﻿<Properties StartupConfiguration="{DBB77907-86E3-46CD-AB9B-FB65A5CCD43D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MicroserviceTest/supervisord.conf">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MicroserviceTest/Dockerfile">
     <Files>
       <File FileName="MicroserviceTest/Controllers/ValuesController.cs" Line="15" Column="1" />
       <File FileName="MicroserviceTest/Startup.cs" Line="37" Column="23" />
       <File FileName="MicroserviceTest/Program.cs" Line="19" Column="38" />
-      <File FileName="MicroserviceTest/Controllers/MicroServiceAPIController.cs" Line="17" Column="116" />
-      <File FileName="MicroserviceTest/Dockerfile" Line="18" Column="29" />
-      <File FileName="MicroserviceTest/docker-entrypoint.sh" Line="4" Column="8" />
-      <File FileName="MicroserviceTest/supervisord.conf" Line="10" Column="16" />
+      <File FileName="MicroserviceTest/Controllers/MicroServiceAPIController.cs" Line="31" Column="59" />
+      <File FileName="MicroserviceTest/Dockerfile" Line="25" Column="75" />
+      <File FileName="MicroserviceTest/supervisord.conf" Line="14" Column="31" />
+      <File FileName="MicroserviceTest/filebeat.yml" Line="28" Column="21" />
+      <File FileName="../../Downloads/filebeat_logs/VAS-logs.log" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

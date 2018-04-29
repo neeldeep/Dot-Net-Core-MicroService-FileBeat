@@ -25,7 +25,7 @@ filebeat.prospectors:
 
   # Paths that should be crawled and fetched. Glob based paths.
   paths:
-    - /var/log/*.log
+    - /usr/local/path_to_log/*.log
     - C:\elasticsearch\logs\*
   json.message_key: event
   json.keys_under_root: true
@@ -124,7 +124,7 @@ setup.template.enabled: false
   # Scheme and port can be left out and will be set to the default (http and 5601)
   # In case you specify and additional path, the scheme is required: http://localhost:5601/path
   # IPv6 addresses should always be defined as: https://[2001:db8::1]:5601
-  #host: "http://18.219.25.229:5601/"
+  # host: "KIBANA_HOST"
 
 #============================= Elastic Cloud ==================================
 
@@ -146,8 +146,8 @@ setup.template.enabled: false
 #-------------------------- Elasticsearch output ------------------------------
 output.elasticsearch:
   # Array of hosts to connect to.
-  hosts: ["https://search-vas-test-pubbpfe3yfiuqnkij26syta3fu.us-east-2.es.amazonaws.com/"]
-  index: "cbre-vas-%{+yyyy.MM.dd}"
+  hosts: ["ELASTIC_SERVER_DETAILS"]
+  index: "index_name"
   template.name: filebeat
   template.path: filebeat.template.json
   # Optional protocol and basic auth credentials.
